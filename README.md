@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **nimaisox/nimaisox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+**My Avatar Discord:**&nbsp; 
+[![Avatar](https://discord.c99.nl/widget/theme-3/631463369458843668.png)](https://discord.gg/pHKZHQ3DUU)
