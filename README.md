@@ -1,6 +1,7 @@
 ### Hi I'm Nimaiso 👋
 
 🖤 I am in love with coding.
+
 💠 I’m currently coding in C# & C++.
 
 **My Avatar Discord:**
