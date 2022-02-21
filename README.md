@@ -6,7 +6,7 @@
 
 **My Avatar Discord:**
 
-[![Avatar](https://discord.c99.nl/widget/theme-3/631463369458843668.png)](https://discord.gg/DStAkkypnm)
+[![Avatar](https://discord.c99.nl/widget/theme-3/631463369458843668.png)](https://discord.gg/Z5K5WZ5SDY)
 
 **Discord DarkTM**
 
